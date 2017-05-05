@@ -1,5 +1,7 @@
 <?php 
 
+namespace ValidateCode;
+
 //验证码类
 class ValidateCode {
     private $charset = 'abcdefghkmnprstuvwxyzABCDEFGHKMNPRSTUVWXYZ0123456789';//随机因子
