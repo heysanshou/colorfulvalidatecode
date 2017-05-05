@@ -15,5 +15,5 @@
         "psr-4": {
             "ValidateCode": "src/ColorfulValidateCode"
         }
-    },
+    }
 }
