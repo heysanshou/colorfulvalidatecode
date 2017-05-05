@@ -1,6 +1,6 @@
 <?php 
 
-namespace ValidateCode;
+namespace ValidateCodeSpace;
 
 //验证码类
 class ValidateCode {
